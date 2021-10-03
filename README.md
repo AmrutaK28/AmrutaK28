@@ -3,9 +3,9 @@
 I'm Amruta Kangiri, an technical enthusiast who does web development, security research and ML/DL development. Passionate to contribute open-source projects and make cool products.<br>
 
 <h2> About me </h2>
-- 🌱 I’m currently learning ReactJS
-- 👯 I’m looking forward to collaborate on open source projects
-- 😄 Pronouns: She/her
+- 🌱 I’m currently learning ReactJS<br>
+- 👯 I’m looking forward to collaborate on open source projects<br>
+- 😄 Pronouns: She/her<br>
 
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
 <a href= https://github.com/Aditya664?tab=repositories&q=&type=&language=python&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg'> </a>
