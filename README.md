@@ -1,6 +1,6 @@
 
 <h2> Hi there I'm Amruta !👋 </h2>
-I'm Amruta Kangiri, a technical enthusiast who does web development, security research and ML/DL development. Passionate to contribute open-source projects and make cool products.<br>
+I'm Amruta Kangiri, a technical enthusiast who does web development, security research and AI development. Passionate to contribute open-source projects and make cool products.<br>
 
 <h2> About me </h2>
 - 🌱 I’m currently learning ReactJS<br>
